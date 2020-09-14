@@ -13,6 +13,7 @@ In this project, we use NLP to extract the sentiments from the 10K document of a
 
 #### Extract sentiment
 <ul type = "1">
+<li>Generate Bag of words</li>
 <li>Generate sentiment TFIDF</li>
 <li>Calculate cosine similarities between each tick in time</li>
 </ul>

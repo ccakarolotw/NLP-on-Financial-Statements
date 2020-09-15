@@ -24,6 +24,6 @@ Use the time-dependent cosine simularity for each stock as the alpha factor.
 #### Resource
 <ul type = "1">
 <li>Loughran and McDonald sentiment word lists</li>
-<li>S&P 500 stock data</li>
+<li>S&P 500 stock data https://datasetsearch.research.google.com/search?query=sp%20500&docid=7tkwuqV00sLBzoOSAAAAAA%3D%3D</li>
 </ul>
 
